@@ -1,0 +1,29 @@
+
+> ai-pair-programmer@0.1.0 dev
+> next dev
+
+▲ Next.js 16.1.1 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.1.16:3000
+- Environments: .env.local
+
+✓ Starting...
+✓ Ready in 272ms
+ GET / 200 in 234ms (compile: 184ms, render: 50ms)
+ GET / 200 in 14ms (compile: 966µs, render: 13ms)
+ GET /api/provider 200 in 23ms (compile: 19ms, render: 4ms)
+ GET /api/provider 200 in 2ms (compile: 685µs, render: 1560µs)
+ GET /api/provider 200 in 5ms (compile: 2ms, render: 3ms)
+Using AI provider: groq
+Using AI provider: groq
+Using AI provider: groq
+ POST /api/analyze 200 in 1820ms (compile: 16ms, render: 1804ms)
+ GET / 200 in 39ms (compile: 4ms, render: 34ms)
+ GET /api/provider 200 in 3ms (compile: 1374µs, render: 1736µs)
+Using AI provider: groq
+Using AI provider: groq
+Using AI provider: groq
+ POST /api/analyze 200 in 2.9s (compile: 3ms, render: 2.8s)
+ GET / 200 in 51ms (compile: 22ms, render: 29ms)
+ GET / 200 in 20ms (compile: 1404µs, render: 18ms)
+ GET / 200 in 12ms (compile: 1031µs, render: 11ms)
